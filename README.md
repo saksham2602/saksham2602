@@ -109,7 +109,7 @@ Saksham = {
 
 <table>
   <tr>
-      <td width="50%" valign="top">
+    <td width="50%" valign="top">
       <h3>✍️ LinkedIn Post Generator - LangGraph</h3>
       <p>
         AI content automation agent that fetches tech signals, selects topics,
@@ -123,7 +123,6 @@ Saksham = {
         <img src="https://img.shields.io/badge/Automation-7C3AED?style=flat-square" />
       </p>
     </td>
-  </tr>
     <td width="50%" valign="top">
       <h3>🛒 Healthcare E-Commerce Platform</h3>
       <p>
@@ -157,9 +156,6 @@ Saksham = {
         <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square" />
       </p>
     </td>
-  
-
-  <tr>
     <td width="50%" valign="top">
       <h3>🌱 Green Thumb - Gardening Website</h3>
       <p>
@@ -174,6 +170,9 @@ Saksham = {
         <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss" />
       </p>
     </td>
+  </tr>
+
+  <tr>
     <td width="50%" valign="top">
       <h3>🏫 Hostel Allotment System</h3>
       <p>
@@ -184,6 +183,18 @@ Saksham = {
         <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react" />
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚧 More Projects Coming Soon</h3>
+      <p>
+        Currently building and improving AI agents, automation workflows,
+        RAG systems and full-stack AI products.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=flat-square" />
+        <img src="https://img.shields.io/badge/RAG-000000?style=flat-square" />
+        <img src="https://img.shields.io/badge/Full--Stack-302B63?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -208,18 +219,7 @@ Saksham = {
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=saksham2602&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham2602&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&hide=html,css" height="170" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saksham2602&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-</div>
 
 ---
 
@@ -250,6 +250,6 @@ I'm open to discussing **AI/ML projects, GenAI systems, full-stack products, int
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
 </div>
-'''
+
 
 
