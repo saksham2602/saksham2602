@@ -225,6 +225,21 @@ Saksham = {
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Maulikkkk&show_icons=true&theme=tokyonight&hide=issues,prs&border_radius=10&include_all_commits=true&count_private=true" height="170" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saksham2602&layout=compact&theme=tokyonight&border_radius=10&hide=html,css" height="170" />
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saksham2602&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+</div>
+
+---
+
 ## 🌐 Let's Connect
 
 <div align="center">
