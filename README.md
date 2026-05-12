@@ -1,6 +1,4 @@
-from pathlib import Path
-
-readme = r'''<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Saksham%20Bhatia&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20GenAI%20Builder%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=a78bfa" />
 
@@ -111,21 +109,21 @@ Saksham = {
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 AI Multi-Agent Nutrition & Food Intelligence System</h3>
+      <td width="50%" valign="top">
+      <h3>✍️ LinkedIn Post Generator - LangGraph</h3>
       <p>
-        Multi-agent food intelligence system using LangGraph, RAG and vector search.
-        Built agent workflows for food query understanding, nutritional reasoning,
-        personalization and memory-based responses.
+        AI content automation agent that fetches tech signals, selects topics,
+        generates posts, reviews quality, scores output and avoids repeated ideas
+        using a LangGraph-based workflow.
       </p>
       <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
         <img src="https://img.shields.io/badge/LangGraph-000000?style=flat-square" />
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
-        <img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square" />
-        <img src="https://img.shields.io/badge/FAISS-005571?style=flat-square" />
-        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square" />
+        <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square" />
+        <img src="https://img.shields.io/badge/Automation-7C3AED?style=flat-square" />
       </p>
     </td>
+  </tr>
     <td width="50%" valign="top">
       <h3>🛒 Healthcare E-Commerce Platform</h3>
       <p>
@@ -159,21 +157,7 @@ Saksham = {
         <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square" />
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>✍️ LinkedIn Post Generator - LangGraph</h3>
-      <p>
-        AI content automation agent that fetches tech signals, selects topics,
-        generates posts, reviews quality, scores output and avoids repeated ideas
-        using a LangGraph-based workflow.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
-        <img src="https://img.shields.io/badge/LangGraph-000000?style=flat-square" />
-        <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square" />
-        <img src="https://img.shields.io/badge/Automation-7C3AED?style=flat-square" />
-      </p>
-    </td>
-  </tr>
+  
 
   <tr>
     <td width="50%" valign="top">
@@ -254,7 +238,7 @@ Saksham = {
 
 I'm open to discussing **AI/ML projects, GenAI systems, full-stack products, internships, collaborations and software engineering opportunities.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saksham-bhatia-932aba25a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saksham-b-932aba25a/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/saksham2602)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://iamsaksham.vercel.app)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhatiasaksham26@gmail.com)
@@ -268,6 +252,4 @@ I'm open to discussing **AI/ML projects, GenAI systems, full-stack products, int
 </div>
 '''
 
-path = Path("/mnt/data/README.md")
-path.write_text(readme, encoding="utf-8")
-print(f"Created {path} ({path.stat().st_size} bytes)")
+
