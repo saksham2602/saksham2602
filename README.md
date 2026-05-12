@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Saksham%20Bhatia&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20GenAI%20Builder%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Saksham%20Bhatia&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20GenAI%20Builder%20%E2%80%A2%20LLM%20Apps&descAlignY=58&descSize=18&descColor=a78bfa" />
 
 <p>
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+AI+Agents+%26+RAG+Systems;LangChain+%7C+LangGraph+%7C+LLM+Apps;Next.js+%2B+NestJS+%2B+Prisma+Developer;AI%2FML+%2B+Full-Stack+Engineering&center=true&width=650&height=52&font=Fira+Code&size=18&pause=1000&color=a78bfa&vCenter=true" />
